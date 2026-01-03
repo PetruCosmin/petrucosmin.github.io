@@ -24,7 +24,7 @@ CV‑ul folosește:
 
 ##  Vizualizare online
 CV‑ul poate fi vizualizat accesând:
-👉 *[link către site-ul tău sau GitHub Pages, dacă îl activezi]*
+👉 https://petrucosmin.github.io/
 
 ##  Contact
 - Email: petru0cosmin@gmail.com  
